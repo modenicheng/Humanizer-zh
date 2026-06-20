@@ -1,4 +1,4 @@
-# Humanizer-zh：中文 AI 写作去痕工具
+# Humanizher：中文 AI 写作去痕工具
 
 让 AI 写的中文，读起来像人写的。
 
@@ -6,11 +6,11 @@
 
 ## 这是什么
 
-Humanizer-zh 是一套中文写作人性化的技能（skill），用于：
+humanizher 是一套中文写作人性化技能，用来：
 - 去除 AI 生成文本的痕迹——西化句式、翻译腔、AI 高频词、套路化结构
 - 让文字更自然、更有节奏、更像真人在说话
 
-核心理念来自两个源头：
+核心理念有两个源头：
 - **维基百科 AI 写作特征指南** — 24 种 AI 写作模式及其识别方法
 - **余光中《翻译与文学的常态与变态》** — 中文生态的三大常态与恶性西化七大病症
 
@@ -61,7 +61,7 @@ git clone https://github.com/op7418/Humanizer-zh.git ~/.claude/skills/humanizer-
 在 Claude Code 中直接调用：
 
 ```
-/humanizer-zh 请帮我人性化以下文本：
+/humanizher 请帮我人性化以下文本：
 
 [粘贴你的文本]
 ```
